@@ -95,7 +95,7 @@ samp {
   font-family: var(--vt-font-family-mono);
 }
 
-img,
+/* img, */
 svg,
 video,
 canvas,
